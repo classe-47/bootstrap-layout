@@ -6,7 +6,8 @@ header {
 }
 
 /* jumbo */
-#jumbotron {
+#jumbotron,
+#about {
     background-color: #1abc9c;
 }
 
